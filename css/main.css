@@ -30,3 +30,7 @@ a:active {
   text-decoration: underline;
   color: #d9d9d9;
 }
+
+.markdown-block a {
+    color: green;
+}
