@@ -1,7 +1,7 @@
 <head>
-		<title>portfolio</title>
-		<link rel="stylesheet" type="text/css" href="css/main.css">
-	</head>
+<link rel="stylesheet" type="text/css" href="css/main.css">
+</head>
+
 <div align="center"> <img src="images/groupmount.png" alt="drawing" width="50%"/>  </div>
 
 # Guild resources and documentation  
