@@ -1,3 +1,5 @@
+<button onclick="history.back()">Go Back</button>
+
 ## **RECRUITMENT: GENERAL** 
 
 **1.**    We accept applications from everyone. Every application is considered on individual merit alone. Social players are welcome. 
@@ -15,3 +17,5 @@
 **3.**    If a trial raider is in danger of not being accepted, they will be given at least one opportunity to act on constructive feedback. We do reserve the right to end trials early if we feel a player is not a good fit for the team, or vice versa if they are a good fit.  
 
 **4.**    A trial raider will never be surprised by our final decision; The GM or officer will always be in touch with how the trial is progressing.
+
+<button onclick="history.back()">Go Back</button>
