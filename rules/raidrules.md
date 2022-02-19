@@ -1,3 +1,6 @@
+<button onclick="history.back()">Go Back</button>
+<a href="javascript:history.back(1)">Previous Page</a> 
+
 ## **RAID RULES** 
 
 **1.** Raids are always operated in an open, friendly and fun way. Mistakes are encouraged and never punished. We want players to learn, work together and help each other achieve their very best, in an environment where we can laugh and enjoy the game as a team.  
