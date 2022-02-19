@@ -1,3 +1,4 @@
+<button onclick="history.back()">Go Back</button>  
 # :crown: Leadership structure
 
 ## Guild Leader
@@ -27,5 +28,6 @@
 
 - Co-raid leader
 - Log analysis
-- Raid encounter strategies
+- Raid encounter strategies  
 
+<button onclick="history.back()">Go Back</button>
