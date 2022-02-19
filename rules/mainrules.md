@@ -1,4 +1,4 @@
-[<- Back](/rules)
+<button onclick="history.back()">Go Back</button>
 
 ## **1. MAIN GUILD RULES** 
 
@@ -37,3 +37,5 @@ In the first instance, members are encouraged to set aside their differences by 
 
 **1.** We operate on a three-strike system.  
 **2.** Any violation of rule 1.5 will result in immediate dismissal. Rule 3.1 will not apply.
+
+<button onclick="history.back()">Go Back</button>
