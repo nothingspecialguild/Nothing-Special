@@ -10,6 +10,23 @@ div {
   background-color: #121212;
   color: #d9d9d9;
 }
-a {
-  color: #ffffff;
+
+a:link {
+  text-decoration: none;
+  colour: #ffffff
+}
+
+a:visited {
+  text-decoration: none;
+  color: #d9d9d9;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #d9d9d9;
+}
+
+a:active {
+  text-decoration: underline;
+  color: #d9d9d9;
 }
