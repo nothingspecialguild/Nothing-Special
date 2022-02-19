@@ -1,3 +1,7 @@
+<head>
+<link rel="stylesheet" type="text/css" href="css/main.css">
+</head>
+
 <button onclick="history.back()">Go Back</button>  
 # :crown: Leadership structure
 
