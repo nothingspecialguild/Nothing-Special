@@ -13,24 +13,21 @@ div {
 
 a:link {
   text-decoration: none;
-  colour: #ffffff
+  colour: #D63459
 }
 
 a:visited {
   text-decoration: none;
-  color: #d9d9d9;
+  color: #D63459;
 }
 
 a:hover {
   text-decoration: underline;
-  color: #d9d9d9;
+  color: #D63459;
 }
 
 a:active {
   text-decoration: underline;
-  color: #d9d9d9;
+  color: #D63459;
 }
 
-.markdown-block a {
-    color: green;
-}
