@@ -9,7 +9,7 @@
 
 :page_with_curl: [Guild rules](/rules) 
 
-:pound: Guild bank pricelist 
+:pound: [Guild bank pricelist](pricelist.md)
 
 :closed_book: Meeting notes 
 
