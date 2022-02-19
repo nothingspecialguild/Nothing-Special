@@ -8,6 +8,6 @@
 
 :closed_book: Meeting notes 
 
-:guardsman: Leadership structure 
+:crown: [Leadership structure](/leadership)
 
 :camera: Fun images 
