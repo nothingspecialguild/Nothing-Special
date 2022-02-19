@@ -12,23 +12,15 @@ div {
   color: #d9d9d9;
 }
 
-a:link {
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
   text-decoration: none;
-  colour: #D63459;
+  display: inline-block;
 }
 
-a:visited {
-  text-decoration: none;
-  color: #D63459;
+a:hover, a:active {
+  background-color: red;
 }
-
-a:hover {
-  text-decoration: underline;
-  color: #D63459;
-}
-
-a:active {
-  text-decoration: underline;
-  color: #D63459;
-}
-
