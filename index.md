@@ -2,7 +2,6 @@
 <link rel="stylesheet" type="text/css" href="css/main.css">
 </head>
 
-<body>
   
 <div align="center"> <img src="images/groupmount.png" alt="drawing" width="50%"/>  </div>
 
@@ -18,4 +17,3 @@
 
 :camera: Fun images 
   
-</body>
