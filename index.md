@@ -1,9 +1,8 @@
-
 <div align="center"> <img src="images/groupmount.png" alt="drawing" width="50%"/>  </div>
-  
+
 # Guild resources and documentation  
-  
-:page_with_curl: Guild rules 
+
+:page_with_curl: [Guild rules](/rules) 
 
 :pound: Guild bank pricelist 
 
@@ -12,4 +11,3 @@
 :guardsman: Leadership structure 
 
 :camera: Fun images 
-  
