@@ -1,5 +1,4 @@
 <button onclick="history.back()">Go Back</button>
-<a href="javascript:history.back(1)">Previous Page</a> 
 
 ## **RAID RULES** 
 
