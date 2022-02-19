@@ -7,6 +7,8 @@
 
 # Guild resources and documentation  
 
+<span style="font-family:Papyrus; font-size:4em;">
+  
 [:page_with_curl: Guild rules](/rules) 
 
 [:pound: Guild bank pricelist](pricelist.md)  
@@ -17,5 +19,4 @@
 
 :camera: Fun images 
   
-
-
+ hey
