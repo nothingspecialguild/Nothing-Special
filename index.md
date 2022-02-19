@@ -1,2 +1,2 @@
-A world of video game
+A world of video game :blush:
 For the nintendo playstation
