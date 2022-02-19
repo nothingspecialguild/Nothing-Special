@@ -7,13 +7,13 @@
 
 # Guild resources and documentation  
 
- [:page_with_curl: Guild rules](/rules) 
+[:page_with_curl: Guild rules](/rules) 
 
- [:pound: Guild bank pricelist](pricelist.md)
+[:pound: Guild bank pricelist](pricelist.md)  
 
 :closed_book: Meeting notes 
 
-[:crown:  Leadership structure](/leadership)
+[:crown:  Leadership structure](/leadership)  
 
 :camera: Fun images 
   
