@@ -1,3 +1,5 @@
+[<- Back](/rules)
+
 ## **1. MAIN GUILD RULES** 
 
 We want Nothing Special to be a relaxed, welcoming atmosphere for all players, in every game we play. We do not tolerate egos, toxicity or shouting. 
