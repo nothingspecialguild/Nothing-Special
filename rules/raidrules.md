@@ -20,7 +20,7 @@
 
 **1.** Personal loot applies. Unwanted/duplicate gear must be rolled for to ensure equal opportunity for everyone. We do not use RC Loot Council.
 
-**2.** BoEs dropped during progression can be kept, if they are an upgrade. You must equip the item during the raid. Unwanted items go to the GM to sell for guild bank funds. 
+**2.** BoEs dropped during progression can be kept, if they are an upgrade. You must equip the item during the raid. Unneeded items go to the GM to sell for guild bank funds. 
 
 
 
