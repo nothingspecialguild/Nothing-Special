@@ -11,10 +11,16 @@
 ## Raid Consumables
 
 **Spectral flask x1:** 350g
+
 **Spectral flask x3:** 1050g 
+
 **Spectral flask x10:** 3400g 
 
+
 **Heavy desolate armour kit x1:** 240g
+
 **Heavy desolate armour kit x3:** 720g
+
 **Heavy desolate armour kit x10:** 4500g
+
 
