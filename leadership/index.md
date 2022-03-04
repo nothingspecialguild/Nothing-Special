@@ -10,7 +10,7 @@
 ### Broadlore/Alex
 
 - Guild management and organisation  
-- Co-raid leader
+- Raid leader
 
 ## Guild Officer
 
@@ -27,11 +27,5 @@
 
 - Guild member recruitment/retention
 - Queen of flat pack furniture
-
-### IO
-
-- Co-raid leader
-- Log analysis
-- Raid encounter strategies  
 
 <button onclick="history.back()">Go Back</button>
