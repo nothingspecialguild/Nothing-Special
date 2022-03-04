@@ -30,9 +30,9 @@
 
 The Raid leader will always explain boss encounters, mechanics and strategies. However, there is an expectation that you at least do some research and come to bosses with a basic understanding of what you have to do. Check the appropriate channels for specific tactics we use.
 
-Voice comms should be kept clear during pulls for the Raid Leader to inform team of tactics and for tanks to communicate with each other.  
+Voice comms should be kept clear during pulls for the Raid Leader to inform team of tactics and for tanks to communicate with each other. Some chat and banter is welcomed and encouraged, just not during critical moments!
 
-Only the Raid Leader makes significant calls during pulls, unless someome else has been designated to help out.
+Only the Raid Leader makes calls during pulls, unless someome else has been designated to help out. 
 
 ## SIGNUPS AND ABSENCES
 
