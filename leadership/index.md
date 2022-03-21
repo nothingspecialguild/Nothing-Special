@@ -12,20 +12,22 @@
 - Guild management and organisation  
 - Raid leader
 
-## Guild Officer
+## Guild Officers
 
 ### Akinshaka/Sidney
 
 - Mythic+ lead, organisation of M+ team pushing and M+ nights  
-- Member recruitment  
 - General guild enquiries  
 - All around cool dude 
 
-## Additional roles and responsibilities
-
 ### Kib
 
-- Guild member recruitment/retention
+- Guild member recruitment/retention and support
+- Raid loot distribution
 - Queen of flat pack furniture
+
+## Additional roles and responsibilities
+
+
 
 <button onclick="history.back()">Go Back</button>
