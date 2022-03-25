@@ -12,14 +12,14 @@
 
 **3.**    We will never use application forms (unless simply to get player contact details). 
 
+**4.**     Trials (both social and raid team) last 2 weeks. This gives both the guild and new member a chance to decide whether they are a good fit for each other.
+
 ## **RECRUITMENT: RAID TEAM**
 
- **1.**    Potential applicants will be invited to trial raid with us for 2 raid nights. 
+**1.**    Overall vibe with the team (how they gel socially with members) and performance (via log assessment) will be considered. First time nerves are always factored in, don't worry! 
 
-**2.**    Overall vibe with the team (how they gel socially with members) and performance (via log assessment) will be considered. First time nerves are always factored in, don't worry! 
+**2.**    If a trial raider is in danger of not being accepted, they will be given at least one opportunity to act on constructive feedback. We do reserve the right to end trials early if we feel a player is not a good fit for the team, or vice versa if they are a good fit.  
 
-**3.**    If a trial raider is in danger of not being accepted, they will be given at least one opportunity to act on constructive feedback. We do reserve the right to end trials early if we feel a player is not a good fit for the team, or vice versa if they are a good fit.  
-
-**4.**    A trial raider will never be surprised by our final decision; The GM or officer will always be in touch with how the trial is progressing.
+**3.**    A trial raider will never be surprised by our final decision; The GM or officer will always be in touch with how the trial is progressing.
 
 <button onclick="history.back()">Go Back</button>
