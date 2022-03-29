@@ -42,11 +42,13 @@ Use the absence feature on the sign up sheet to report absences. You can provide
 
 ## ATTENDANCE
 
-Members of the raid team are expected to attend all raids, both progression and reclears, with the exception of absences/IRL commitments. 
+Members of the raid team are expected to attend all raids, both progression and reclears, with the exception of absences/IRL commitments. If you've joined the team, you have agreed your availability for our raid nights and times.
+
+If your circumstances change and you are unable to consistently attend 80%+ of raids, (excluding legitimate absences), please speak to an officer.
 
 ## RAIDING OUTSIDE OF GUILD RUNS (PUG GROUPS ETC)
 
 We do not prevent guild members from running raids outside of our own scheduled events. 
 
-If you choose to do this, you are still expected to attend raid nights (even if we're clearing bosses you completed). 
+If you choose to do this, you are still expected to attend raid nights (even if we're clearing bosses you've completed in a non-guild run). Non-attendance because you have run content outside of our raid nights is not an acceptable excuse for absence. 
 
