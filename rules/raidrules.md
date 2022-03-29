@@ -38,4 +38,15 @@ Only the Raid Leader makes calls during pulls, unless someome else has been desi
 
 Members can sign up to raids using the Discord-based system in raid-signups. You will not receive an invite if your name is not on the event list. 
 
-Absences happen and that's okay. Please aim to provide 24 hours notice if you can.
+Use the absence feature on the sign up sheet to report absences. You can provide a reason via the bot (this will only be shared with officers).
+
+## ATTENDANCE
+
+Members of the raid team are expected to attend all raids, both progression and reclears, with the exception of absences/IRL commitments. 
+
+## RAIDING OUTSIDE OF GUILD RUNS (PUG GROUPS ETC)
+
+We do not prevent guild members from running raids outside of our own scheduled events. 
+
+If you choose to do this, you are still expected to attend raid nights (even if we're clearing bosses you completed). 
+
