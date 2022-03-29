@@ -36,7 +36,9 @@ Only the Raid Leader makes calls during pulls, unless someome else has been desi
 
 ## SIGNUPS AND ABSENCES
 
-Members can sign up to raids using the Discord-based system in raid-signups. You will not receive an invite if your name is not on the event list. 
+Members can sign up to raids using the Discord-based system in raid-signups. You will not raid if your name is not on the event list. 
+
+If you miss the first wave of invites, whisper "inv" to the raid leader for an auto-invite.
 
 Use the absence feature on the sign up sheet to report absences. You can provide a reason via the bot (this will only be shared with officers).
 
