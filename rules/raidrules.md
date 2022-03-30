@@ -54,7 +54,7 @@ In real terms: for every **10** raids, you must attend at least **8**.
 
 If your circumstances change and you are unable to consistently attend 80%+ of raids, please speak to an officer; changes in IRL are expected and understandable. We are here to help and support you where we can. 
 
-From time to time, we may recruit players knowing that their attendance will be less than 80% from the start, based on the needs of the guild.
+We reserve the right to allow exceptions to the 8/10 rule, based on the needs of the guild.
 
 ## RAIDING OUTSIDE OF GUILD RUNS (PUG GROUPS ETC)
 
