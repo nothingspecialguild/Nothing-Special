@@ -44,9 +44,9 @@ Use the absence feature on the sign up sheet to report absences. You can provide
 
 ## ATTENDANCE
 
-Members of the raid team are expected to attend all raids, both progression and reclears, with the exception of absences/IRL commitments. If you've joined the team, you have agreed your availability for our raid nights and times.
+If you've joined the team, you have agreed your availability for our raid nights and times. Members of the raid team are expected to attend all raids, both progression and reclears, with the exception of absences/IRL commitments. 
 
-Raid team members are expected to have 80% attendance minimum. This is to ensure consistency during progression runs, which will enable us to succeed and improve. 
+Raid team members are expected to have 80% attendance minimum. This is to ensure our team stays consistent during progression runs, which will enable us to succeed and improve faster. 
 
 In real terms: for every **10** raids, you must attend at least **8**. 
 
