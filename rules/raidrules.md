@@ -42,7 +42,7 @@ If you miss the first wave of invites, whisper "inv" to the raid leader for an a
 
 Use the absence feature on the sign up sheet to report absences. You can provide a reason via the bot (this will only be shared privately with officers).
 
-If you know you are going to be absent 1-2 weeks in the future, please contact Alex directly. 
+If you know you are going to be absent in the future (before signups go live), please contact Alex or any leadership member directly. 
 
 ## ATTENDANCE
 
