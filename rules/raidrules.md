@@ -54,7 +54,7 @@ In real terms: for every **10** raids, you must attend at least **8**.
 
 If your circumstances change and you are unable to consistently attend 80%+ of raids, please speak to an officer; changes in IRL are expected and understandable. We are here to help and support you where we can. 
 
-Some longstanding members do not attend 8/10. This was agreed at the time, before these rules were drafted.
+Some longstanding members do not attend 8/10. These members assist with raid strategies and log analysis to compensate.
 
 ## RAIDING OUTSIDE OF GUILD RUNS (PUG GROUPS ETC)
 
