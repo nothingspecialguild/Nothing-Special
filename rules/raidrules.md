@@ -14,13 +14,15 @@
 
 **4.** A player will never be made to feel shamed for failing a mechanic (it happens), but you might be asked why it happened! 
 
+**5.** Mythic progression: the first night of pulls on a new boss will always be a learning night. The team works together to understand the fight, what's changed, what's expected, and begins to develop strategies for the following raid.
+
 
 
 ## **LOOT** 
 
 **1.** Personal loot applies. Unwanted/duplicate gear must be rolled for to ensure equal opportunity for everyone. We do not use RC Loot Council.
 
-**2.** BoEs dropped during progression can be kept, if they are an upgrade. You must equip the item during the raid. Unneeded items go to the GM to sell for guild bank funds. 
+**2.** BoEs dropped during progression go to the GM to sell for guild bank funds. 
 
 
 
